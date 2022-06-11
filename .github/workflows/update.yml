@@ -1,0 +1,26 @@
+name: Update Data
+on:
+  workflow_dispatch: ~
+  schedule:
+    - cron: "*/10 * * * *"
+concurrency: one-at-a-time
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install
+        run: npm ci
+      - name: Update
+        run: npx ts-node index.ts && npx prettier --write .
+        env:
+          CROWDIN_TOKEN: ${{ secrets.CROWDIN_TOKEN }}
+      - name: Push
+        run: |
+          if ! git diff -s --exit-code minecraftLanguages.json; then
+            git config user.name github-actions[bot]
+            git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+            git add .
+            git commit -m "$(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+            git push origin master
+          fi

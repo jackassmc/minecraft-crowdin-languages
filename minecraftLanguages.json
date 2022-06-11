@@ -1,0 +1,920 @@
+[
+  {
+    "crowdinLocale": "en-US",
+    "crowdinName": "English, United States",
+    "crowdinId": "en-US",
+    "minecraftId": "en_us"
+  },
+  {
+    "crowdinLocale": "af-ZA",
+    "crowdinName": "Afrikaans",
+    "crowdinId": "af",
+    "minecraftId": "af_za"
+  },
+  {
+    "crowdinLocale": "ar-SA",
+    "crowdinName": "Arabic",
+    "crowdinId": "ar",
+    "minecraftId": "ar_sa"
+  },
+  {
+    "crowdinLocale": "ast-ES",
+    "crowdinName": "Asturian",
+    "crowdinId": "ast",
+    "minecraftId": "ast_es"
+  },
+  {
+    "crowdinLocale": "az-AZ",
+    "crowdinName": "Azerbaijani",
+    "crowdinId": "az",
+    "minecraftId": "az_az"
+  },
+  {
+    "crowdinLocale": "ba-RU",
+    "crowdinName": "Bashkir",
+    "crowdinId": "ba",
+    "minecraftId": "ba_ru"
+  },
+  {
+    "crowdinLocale": "bar",
+    "crowdinName": "Bavarian",
+    "crowdinId": "bar",
+    "minecraftId": "bar"
+  },
+  {
+    "crowdinLocale": "be-BY",
+    "crowdinName": "Belarusian",
+    "crowdinId": "be",
+    "minecraftId": "be_by"
+  },
+  {
+    "crowdinLocale": "bg-BG",
+    "crowdinName": "Bulgarian",
+    "crowdinId": "bg",
+    "minecraftId": "bg_bg"
+  },
+  {
+    "crowdinLocale": "br-FR",
+    "crowdinName": "Breton",
+    "crowdinId": "br-FR",
+    "minecraftId": "br_fr"
+  },
+  {
+    "crowdinLocale": "brb",
+    "crowdinName": "Brabantian",
+    "crowdinId": "brb",
+    "minecraftId": "brb"
+  },
+  {
+    "crowdinLocale": "bs-BA",
+    "crowdinName": "Bosnian",
+    "crowdinId": "bs",
+    "minecraftId": "bs_ba"
+  },
+  {
+    "crowdinLocale": "ca-ES",
+    "crowdinName": "Catalan",
+    "crowdinId": "ca",
+    "minecraftId": "ca_es"
+  },
+  {
+    "crowdinLocale": "cs-CZ",
+    "crowdinName": "Czech",
+    "crowdinId": "cs",
+    "minecraftId": "cs_cz"
+  },
+  {
+    "crowdinLocale": "cy-GB",
+    "crowdinName": "Welsh",
+    "crowdinId": "cy",
+    "minecraftId": "cy_gb"
+  },
+  {
+    "crowdinLocale": "da-DK",
+    "crowdinName": "Danish",
+    "crowdinId": "da",
+    "minecraftId": "da_dk"
+  },
+  {
+    "crowdinLocale": "de-AT",
+    "crowdinName": "German, Austria",
+    "crowdinId": "de-AT",
+    "minecraftId": "de_at"
+  },
+  {
+    "crowdinLocale": "de-CH",
+    "crowdinName": "German, Switzerland",
+    "crowdinId": "de-CH",
+    "minecraftId": "de_ch"
+  },
+  {
+    "crowdinLocale": "de-DE",
+    "crowdinName": "German",
+    "crowdinId": "de",
+    "minecraftId": "de_de"
+  },
+  {
+    "crowdinLocale": "el-GR",
+    "crowdinName": "Greek",
+    "crowdinId": "el",
+    "minecraftId": "el_gr"
+  },
+  {
+    "crowdinLocale": "en-AU",
+    "crowdinName": "English, Australia",
+    "crowdinId": "en-AU",
+    "minecraftId": "en_au"
+  },
+  {
+    "crowdinLocale": "en-CA",
+    "crowdinName": "English, Canada",
+    "crowdinId": "en-CA",
+    "minecraftId": "en_ca"
+  },
+  {
+    "crowdinLocale": "en-GB",
+    "crowdinName": "English, United Kingdom",
+    "crowdinId": "en-GB",
+    "minecraftId": "en_gb"
+  },
+  {
+    "crowdinLocale": "en-NZ",
+    "crowdinName": "English, New Zealand",
+    "crowdinId": "en-NZ",
+    "minecraftId": "en_nz"
+  },
+  {
+    "crowdinLocale": "en-PT",
+    "crowdinName": "Pirate English",
+    "crowdinId": "en-PT",
+    "minecraftId": "en_pt"
+  },
+  {
+    "crowdinLocale": "en-UD",
+    "crowdinName": "English (upside down)",
+    "crowdinId": "en-UD",
+    "minecraftId": "en_ud"
+  },
+  {
+    "crowdinLocale": "enp",
+    "crowdinName": "Anglish",
+    "crowdinId": "enp",
+    "minecraftId": "enp"
+  },
+  {
+    "crowdinLocale": "enws",
+    "crowdinName": "Shakespearean English",
+    "crowdinId": "enws",
+    "minecraftId": "enws"
+  },
+  {
+    "crowdinLocale": "eo-UY",
+    "crowdinName": "Esperanto",
+    "crowdinId": "eo",
+    "minecraftId": "eo_uy"
+  },
+  {
+    "crowdinLocale": "es-AR",
+    "crowdinName": "Spanish, Argentina",
+    "crowdinId": "es-AR",
+    "minecraftId": "es_ar"
+  },
+  {
+    "crowdinLocale": "es-CL",
+    "crowdinName": "Spanish, Chile",
+    "crowdinId": "es-CL",
+    "minecraftId": "es_cl"
+  },
+  {
+    "crowdinLocale": "es-EC",
+    "crowdinName": "Spanish, Ecuador",
+    "crowdinId": "es-EC",
+    "minecraftId": "es_ec"
+  },
+  {
+    "crowdinLocale": "es-ES",
+    "crowdinName": "Spanish",
+    "crowdinId": "es-ES",
+    "minecraftId": "es_es"
+  },
+  {
+    "crowdinLocale": "es-MX",
+    "crowdinName": "Spanish, Mexico",
+    "crowdinId": "es-MX",
+    "minecraftId": "es_mx"
+  },
+  {
+    "crowdinLocale": "es-UY",
+    "crowdinName": "Spanish, Uruguay",
+    "crowdinId": "es-UY",
+    "minecraftId": "es_uy"
+  },
+  {
+    "crowdinLocale": "es-VE",
+    "crowdinName": "Spanish, Venezuela",
+    "crowdinId": "es-VE",
+    "minecraftId": "es_ve"
+  },
+  {
+    "crowdinLocale": "esan",
+    "crowdinName": "Andalusian",
+    "crowdinId": "esan",
+    "minecraftId": "esan"
+  },
+  {
+    "crowdinLocale": "et-EE",
+    "crowdinName": "Estonian",
+    "crowdinId": "et",
+    "minecraftId": "et_ee"
+  },
+  {
+    "crowdinLocale": "eu-ES",
+    "crowdinName": "Basque",
+    "crowdinId": "eu",
+    "minecraftId": "eu_es"
+  },
+  {
+    "crowdinLocale": "fa-IR",
+    "crowdinName": "Persian",
+    "crowdinId": "fa",
+    "minecraftId": "fa_ir"
+  },
+  {
+    "crowdinLocale": "fi-FI",
+    "crowdinName": "Finnish",
+    "crowdinId": "fi",
+    "minecraftId": "fi_fi"
+  },
+  {
+    "crowdinLocale": "fil-PH",
+    "crowdinName": "Filipino",
+    "crowdinId": "fil",
+    "minecraftId": "fil_ph"
+  },
+  {
+    "crowdinLocale": "fo-FO",
+    "crowdinName": "Faroese",
+    "crowdinId": "fo",
+    "minecraftId": "fo_fo"
+  },
+  {
+    "crowdinLocale": "fr-CA",
+    "crowdinName": "French, Canada",
+    "crowdinId": "fr-CA",
+    "minecraftId": "fr_ca"
+  },
+  {
+    "crowdinLocale": "fr-FR",
+    "crowdinName": "French",
+    "crowdinId": "fr",
+    "minecraftId": "fr_fr"
+  },
+  {
+    "crowdinLocale": "fra-DE",
+    "crowdinName": "Franconian",
+    "crowdinId": "fra-DE",
+    "minecraftId": "fra_de"
+  },
+  {
+    "crowdinLocale": "fur-IT",
+    "crowdinName": "Friulian",
+    "crowdinId": "fur-IT",
+    "minecraftId": "fur_it"
+  },
+  {
+    "crowdinLocale": "fy-NL",
+    "crowdinName": "Frisian",
+    "crowdinId": "fy-NL",
+    "minecraftId": "fy_nl"
+  },
+  {
+    "crowdinLocale": "ga-IE",
+    "crowdinName": "Irish",
+    "crowdinId": "ga-IE",
+    "minecraftId": "ga_ie"
+  },
+  {
+    "crowdinLocale": "gd-GB",
+    "crowdinName": "Scottish Gaelic",
+    "crowdinId": "gd",
+    "minecraftId": "gd_gb"
+  },
+  {
+    "crowdinLocale": "gl-ES",
+    "crowdinName": "Galician",
+    "crowdinId": "gl",
+    "minecraftId": "gl_es"
+  },
+  {
+    "crowdinLocale": "haw-US",
+    "crowdinName": "Hawaiian",
+    "crowdinId": "haw",
+    "minecraftId": "haw_us"
+  },
+  {
+    "crowdinLocale": "he-IL",
+    "crowdinName": "Hebrew",
+    "crowdinId": "he",
+    "minecraftId": "he_il"
+  },
+  {
+    "crowdinLocale": "hi-IN",
+    "crowdinName": "Hindi",
+    "crowdinId": "hi",
+    "minecraftId": "hi_in"
+  },
+  {
+    "crowdinLocale": "hr-HR",
+    "crowdinName": "Croatian",
+    "crowdinId": "hr",
+    "minecraftId": "hr_hr"
+  },
+  {
+    "crowdinLocale": "hu-HU",
+    "crowdinName": "Hungarian",
+    "crowdinId": "hu",
+    "minecraftId": "hu_hu"
+  },
+  {
+    "crowdinLocale": "hy-AM",
+    "crowdinName": "Armenian",
+    "crowdinId": "hy-AM",
+    "minecraftId": "hy_am"
+  },
+  {
+    "crowdinLocale": "id-ID",
+    "crowdinName": "Indonesian",
+    "crowdinId": "id",
+    "minecraftId": "id_id"
+  },
+  {
+    "crowdinLocale": "ig-NG",
+    "crowdinName": "Igbo",
+    "crowdinId": "ig",
+    "minecraftId": "ig_ng"
+  },
+  {
+    "crowdinLocale": "io-EN",
+    "crowdinName": "Ido",
+    "crowdinId": "ido",
+    "minecraftId": "io_en"
+  },
+  {
+    "crowdinLocale": "is-IS",
+    "crowdinName": "Icelandic",
+    "crowdinId": "is",
+    "minecraftId": "is_is"
+  },
+  {
+    "crowdinLocale": "isv",
+    "crowdinName": "Interslavic",
+    "crowdinId": "isv",
+    "minecraftId": "isv"
+  },
+  {
+    "crowdinLocale": "it-IT",
+    "crowdinName": "Italian",
+    "crowdinId": "it",
+    "minecraftId": "it_it"
+  },
+  {
+    "crowdinLocale": "ja-JP",
+    "crowdinName": "Japanese",
+    "crowdinId": "ja",
+    "minecraftId": "ja_jp"
+  },
+  {
+    "crowdinLocale": "jbo-EN",
+    "crowdinName": "Lojban",
+    "crowdinId": "jbo",
+    "minecraftId": "jbo_en"
+  },
+  {
+    "crowdinLocale": "ka-GE",
+    "crowdinName": "Georgian",
+    "crowdinId": "ka",
+    "minecraftId": "ka_ge"
+  },
+  {
+    "crowdinLocale": "kk-KZ",
+    "crowdinName": "Kazakh",
+    "crowdinId": "kk",
+    "minecraftId": "kk_kz"
+  },
+  {
+    "crowdinLocale": "kn-IN",
+    "crowdinName": "Kannada",
+    "crowdinId": "kn",
+    "minecraftId": "kn_in"
+  },
+  {
+    "crowdinLocale": "ko-KR",
+    "crowdinName": "Korean",
+    "crowdinId": "ko",
+    "minecraftId": "ko_kr"
+  },
+  {
+    "crowdinLocale": "ksh",
+    "crowdinName": "Ripuarian",
+    "crowdinId": "ksh",
+    "minecraftId": "ksh"
+  },
+  {
+    "crowdinLocale": "kw-GB",
+    "crowdinName": "Cornish",
+    "crowdinId": "kw",
+    "minecraftId": "kw_gb"
+  },
+  {
+    "crowdinLocale": "la-LA",
+    "crowdinName": "Latin",
+    "crowdinId": "la-LA",
+    "minecraftId": "la_la"
+  },
+  {
+    "crowdinLocale": "lb-LU",
+    "crowdinName": "Luxembourgish",
+    "crowdinId": "lb",
+    "minecraftId": "lb_lu"
+  },
+  {
+    "crowdinLocale": "li-LI",
+    "crowdinName": "Limburgish",
+    "crowdinId": "li",
+    "minecraftId": "li_li"
+  },
+  {
+    "crowdinLocale": "lmo",
+    "crowdinName": "Lombard",
+    "crowdinId": "lmo",
+    "minecraftId": "lmo"
+  },
+  {
+    "crowdinLocale": "lol-US",
+    "crowdinName": "LOLCAT",
+    "crowdinId": "lol",
+    "minecraftId": "lol_us"
+  },
+  {
+    "crowdinLocale": "lt-LT",
+    "crowdinName": "Lithuanian",
+    "crowdinId": "lt",
+    "minecraftId": "lt_lt"
+  },
+  {
+    "crowdinLocale": "lv-LV",
+    "crowdinName": "Latvian",
+    "crowdinId": "lv",
+    "minecraftId": "lv_lv"
+  },
+  {
+    "crowdinLocale": "lzh",
+    "crowdinName": "Classical Chinese",
+    "crowdinId": "lzh",
+    "minecraftId": "lzh"
+  },
+  {
+    "crowdinLocale": "mk-MK",
+    "crowdinName": "Macedonian",
+    "crowdinId": "mk",
+    "minecraftId": "mk_mk"
+  },
+  {
+    "crowdinLocale": "mn-MN",
+    "crowdinName": "Mongolian",
+    "crowdinId": "mn",
+    "minecraftId": "mn_mn"
+  },
+  {
+    "crowdinLocale": "ms-MY",
+    "crowdinName": "Malay",
+    "crowdinId": "ms",
+    "minecraftId": "ms_my"
+  },
+  {
+    "crowdinLocale": "mt-MT",
+    "crowdinName": "Maltese",
+    "crowdinId": "mt",
+    "minecraftId": "mt_mt"
+  },
+  {
+    "crowdinLocale": "nds-DE",
+    "crowdinName": "Low German",
+    "crowdinId": "nds",
+    "minecraftId": "nds_de"
+  },
+  {
+    "crowdinLocale": "nl-BE",
+    "crowdinName": "Dutch, Belgium",
+    "crowdinId": "nl-BE",
+    "minecraftId": "nl_be"
+  },
+  {
+    "crowdinLocale": "nl-NL",
+    "crowdinName": "Dutch",
+    "crowdinId": "nl",
+    "minecraftId": "nl_nl"
+  },
+  {
+    "crowdinLocale": "nn-NO",
+    "crowdinName": "Norwegian Nynorsk",
+    "crowdinId": "nn-NO",
+    "minecraftId": "nn_no"
+  },
+  {
+    "crowdinLocale": "no-NO",
+    "crowdinName": "Norwegian",
+    "crowdinId": "no",
+    "minecraftId": "no_no"
+  },
+  {
+    "crowdinLocale": "oc-FR",
+    "crowdinName": "Occitan",
+    "crowdinId": "oc",
+    "minecraftId": "oc_fr"
+  },
+  {
+    "crowdinLocale": "ovd",
+    "crowdinName": "Elfdalian",
+    "crowdinId": "ovd",
+    "minecraftId": "ovd"
+  },
+  {
+    "crowdinLocale": "pl-PL",
+    "crowdinName": "Polish",
+    "crowdinId": "pl",
+    "minecraftId": "pl_pl"
+  },
+  {
+    "crowdinLocale": "pt-BR",
+    "crowdinName": "Portuguese, Brazilian",
+    "crowdinId": "pt-BR",
+    "minecraftId": "pt_br"
+  },
+  {
+    "crowdinLocale": "pt-PT",
+    "crowdinName": "Portuguese",
+    "crowdinId": "pt-PT",
+    "minecraftId": "pt_pt"
+  },
+  {
+    "crowdinLocale": "qya-AA",
+    "crowdinName": "Quenya",
+    "crowdinId": "qya-AA",
+    "minecraftId": "qya_aa"
+  },
+  {
+    "crowdinLocale": "ro-RO",
+    "crowdinName": "Romanian",
+    "crowdinId": "ro",
+    "minecraftId": "ro_ro"
+  },
+  {
+    "crowdinLocale": "rpr",
+    "crowdinName": "Russian (pre-revolutionary)",
+    "crowdinId": "rpr",
+    "minecraftId": "rpr"
+  },
+  {
+    "crowdinLocale": "ru-RU",
+    "crowdinName": "Russian",
+    "crowdinId": "ru",
+    "minecraftId": "ru_ru"
+  },
+  {
+    "crowdinLocale": "se-NO",
+    "crowdinName": "Northern Sami",
+    "crowdinId": "se",
+    "minecraftId": "se_no"
+  },
+  {
+    "crowdinLocale": "sk-SK",
+    "crowdinName": "Slovak",
+    "crowdinId": "sk",
+    "minecraftId": "sk_sk"
+  },
+  {
+    "crowdinLocale": "sl-SI",
+    "crowdinName": "Slovenian",
+    "crowdinId": "sl",
+    "minecraftId": "sl_si"
+  },
+  {
+    "crowdinLocale": "so-SO",
+    "crowdinName": "Somali",
+    "crowdinId": "so",
+    "minecraftId": "so_so"
+  },
+  {
+    "crowdinLocale": "sq-AL",
+    "crowdinName": "Albanian",
+    "crowdinId": "sq",
+    "minecraftId": "sq_al"
+  },
+  {
+    "crowdinLocale": "sr-SP",
+    "crowdinName": "Serbian (Cyrillic)",
+    "crowdinId": "sr",
+    "minecraftId": "sr_sp"
+  },
+  {
+    "crowdinLocale": "sv-SE",
+    "crowdinName": "Swedish",
+    "crowdinId": "sv-SE",
+    "minecraftId": "sv_se"
+  },
+  {
+    "crowdinLocale": "sxu",
+    "crowdinName": "Upper Saxon German",
+    "crowdinId": "sxu",
+    "minecraftId": "sxu"
+  },
+  {
+    "crowdinLocale": "szl",
+    "crowdinName": "Silesian",
+    "crowdinId": "szl",
+    "minecraftId": "szl"
+  },
+  {
+    "crowdinLocale": "ta-IN",
+    "crowdinName": "Tamil",
+    "crowdinId": "ta",
+    "minecraftId": "ta_in"
+  },
+  {
+    "crowdinLocale": "th-TH",
+    "crowdinName": "Thai",
+    "crowdinId": "th",
+    "minecraftId": "th_th"
+  },
+  {
+    "crowdinLocale": "tl-PH",
+    "crowdinName": "Tagalog",
+    "crowdinId": "tl",
+    "minecraftId": "tl_ph"
+  },
+  {
+    "crowdinLocale": "tlh-AA",
+    "crowdinName": "Klingon",
+    "crowdinId": "tlh-AA",
+    "minecraftId": "tlh_aa"
+  },
+  {
+    "crowdinLocale": "tok",
+    "crowdinName": "Toki Pona",
+    "crowdinId": "tok",
+    "minecraftId": "tok"
+  },
+  {
+    "crowdinLocale": "tr-TR",
+    "crowdinName": "Turkish",
+    "crowdinId": "tr",
+    "minecraftId": "tr_tr"
+  },
+  {
+    "crowdinLocale": "tt-RU",
+    "crowdinName": "Tatar",
+    "crowdinId": "tt-RU",
+    "minecraftId": "tt_ru"
+  },
+  {
+    "crowdinLocale": "uk-UA",
+    "crowdinName": "Ukrainian",
+    "crowdinId": "uk",
+    "minecraftId": "uk_ua"
+  },
+  {
+    "crowdinLocale": "val-ES",
+    "crowdinName": "Valencian",
+    "crowdinId": "val-ES",
+    "minecraftId": "val_es"
+  },
+  {
+    "crowdinLocale": "vec-IT",
+    "crowdinName": "Venetian",
+    "crowdinId": "vec",
+    "minecraftId": "vec_it"
+  },
+  {
+    "crowdinLocale": "vi-VN",
+    "crowdinName": "Vietnamese",
+    "crowdinId": "vi",
+    "minecraftId": "vi_vn"
+  },
+  {
+    "crowdinLocale": "yi-DE",
+    "crowdinName": "Yiddish",
+    "crowdinId": "yi",
+    "minecraftId": "yi_de"
+  },
+  {
+    "crowdinLocale": "yo-NG",
+    "crowdinName": "Yoruba",
+    "crowdinId": "yo",
+    "minecraftId": "yo_ng"
+  },
+  {
+    "crowdinLocale": "zh-CN",
+    "crowdinName": "Chinese Simplified",
+    "crowdinId": "zh-CN",
+    "minecraftId": "zh_cn"
+  },
+  {
+    "crowdinLocale": "zh-HK",
+    "crowdinName": "Chinese Traditional, Hong Kong",
+    "crowdinId": "zh-HK",
+    "minecraftId": "zh_hk"
+  },
+  {
+    "crowdinLocale": "zh-TW",
+    "crowdinName": "Chinese Traditional",
+    "crowdinId": "zh-TW",
+    "minecraftId": "zh_tw"
+  },
+  {
+    "crowdinLocale": "zlm-Arab",
+    "crowdinName": "Malay (Jawi)",
+    "crowdinId": "zlm-Arab",
+    "minecraftId": "zlm_arab"
+  },
+  {
+    "crowdinLocale": "an-ES",
+    "crowdinName": "Aragonese",
+    "crowdinId": "an",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "bak",
+    "crowdinName": "Bashkir (Yurmaty)",
+    "crowdinId": "bak",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "bn-BD",
+    "crowdinName": "Bengali",
+    "crowdinId": "bn",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "chn",
+    "crowdinName": "Chinook Jargon",
+    "crowdinId": "chn",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "ckb-IR",
+    "crowdinName": "Sorani (Kurdish)",
+    "crowdinId": "ckb",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "csb-PL",
+    "crowdinName": "Kashubian",
+    "crowdinId": "csb",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "cv-CU",
+    "crowdinName": "Chuvash",
+    "crowdinId": "cv",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "dsb-DE",
+    "crowdinName": "Lower Sorbian",
+    "crowdinId": "dsb-DE",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "egl",
+    "crowdinName": "Emilian",
+    "crowdinId": "egl",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "got-DE",
+    "crowdinName": "Gothic",
+    "crowdinId": "got",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "gv-IM",
+    "crowdinName": "Manx",
+    "crowdinId": "gv",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "hes",
+    "crowdinName": "Hessian",
+    "crowdinId": "hes",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "hsb-DE",
+    "crowdinName": "Upper Sorbian",
+    "crowdinId": "hsb-DE",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "kab-KAB",
+    "crowdinName": "Kabyle",
+    "crowdinId": "kab",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "me-ME",
+    "crowdinName": "Montenegrin (Latin)",
+    "crowdinId": "me",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "mi-NZ",
+    "crowdinName": "Maori",
+    "crowdinId": "mi",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "moe",
+    "crowdinName": "Innu",
+    "crowdinId": "moe",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "moh-CA",
+    "crowdinName": "Mohawk",
+    "crowdinId": "moh",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "nah",
+    "crowdinName": "Nahuatl",
+    "crowdinId": "nah",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "ne-NP",
+    "crowdinName": "Nepali",
+    "crowdinId": "ne-NP",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "nuk",
+    "crowdinName": "Nuu-chah-nulth",
+    "crowdinId": "nuk",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "oj-CA",
+    "crowdinName": "Ojibwe",
+    "crowdinId": "oj",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "sah-SAH",
+    "crowdinName": "Sakha",
+    "crowdinId": "sah",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "scn",
+    "crowdinName": "Sicilian",
+    "crowdinId": "scn",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "sjd",
+    "crowdinName": "Kildin Sami",
+    "crowdinId": "sjd",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "sr-Cyrl-ME",
+    "crowdinName": "Montenegrin (Cyrillic)",
+    "crowdinId": "sr-Cyrl-ME",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "swg",
+    "crowdinName": "Allgovian German",
+    "crowdinId": "swg",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "tzl-TZL",
+    "crowdinName": "Talossan",
+    "crowdinId": "tzl",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "ur-PK",
+    "crowdinName": "Urdu (Pakistan)",
+    "crowdinId": "ur-PK",
+    "minecraftId": null
+  },
+  {
+    "crowdinLocale": "uz-UZ",
+    "crowdinName": "Uzbek",
+    "crowdinId": "uz",
+    "minecraftId": null
+  }
+]
