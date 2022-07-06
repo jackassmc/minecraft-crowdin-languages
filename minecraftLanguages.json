@@ -870,6 +870,12 @@
     "minecraftId": null
   },
   {
+    "crowdinLocale": "ry-UA",
+    "crowdinName": "Rusyn",
+    "crowdinId": "ry-UA",
+    "minecraftId": null
+  },
+  {
     "crowdinLocale": "sah-SAH",
     "crowdinName": "Sakha",
     "crowdinId": "sah",
