@@ -9,7 +9,7 @@ at the bottom of this README and in [minecraftLanguages.json](./minecraftLanguag
 
 ## Data
 
-Last updated 2022-07-06T11:23:27.815Z
+Last updated 2022-09-19T14:44:22.539Z
 
 | Crowdin Locale | Crowdin Name                   | Crowdin ID | Minecraft ID |
 | -------------- | ------------------------------ | ---------- | ------------ |
@@ -158,6 +158,7 @@ Last updated 2022-07-06T11:23:27.815Z
 | ne-NP          | Nepali                         | ne-NP      | _empty_      |
 | nuk            | Nuu-chah-nulth                 | nuk        | _empty_      |
 | oj-CA          | Ojibwe                         | oj         | _empty_      |
+| pa-IN          | Punjabi                        | pa-IN      | _empty_      |
 | ry-UA          | Rusyn                          | ry-UA      | _empty_      |
 | sah-SAH        | Sakha                          | sah        | _empty_      |
 | scn            | Sicilian                       | scn        | _empty_      |
