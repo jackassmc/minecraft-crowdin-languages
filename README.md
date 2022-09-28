@@ -9,7 +9,7 @@ at the bottom of this README and in [minecraftLanguages.json](./minecraftLanguag
 
 ## Data
 
-Last updated 2022-09-19T14:44:22.539Z
+Last updated 2022-09-28T08:52:21.233Z
 
 | Crowdin Locale | Crowdin Name                   | Crowdin ID | Minecraft ID |
 | -------------- | ------------------------------ | ---------- | ------------ |
@@ -168,3 +168,4 @@ Last updated 2022-09-19T14:44:22.539Z
 | tzl-TZL        | Talossan                       | tzl        | _empty_      |
 | ur-PK          | Urdu (Pakistan)                | ur-PK      | _empty_      |
 | uz-UZ          | Uzbek                          | uz         | _empty_      |
+| vp-VL          | Viossa                         | vp         | _empty_      |

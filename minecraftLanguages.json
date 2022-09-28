@@ -928,5 +928,11 @@
     "crowdinName": "Uzbek",
     "crowdinId": "uz",
     "minecraftId": null
+  },
+  {
+    "crowdinLocale": "vp-VL",
+    "crowdinName": "Viossa",
+    "crowdinId": "vp",
+    "minecraftId": null
   }
 ]
