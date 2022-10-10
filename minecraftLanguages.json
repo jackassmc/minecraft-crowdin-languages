@@ -900,6 +900,12 @@
     "minecraftId": null
   },
   {
+    "crowdinLocale": "sr-CS",
+    "crowdinName": "Serbian (Latin)",
+    "crowdinId": "sr-CS",
+    "minecraftId": null
+  },
+  {
     "crowdinLocale": "sr-Cyrl-ME",
     "crowdinName": "Montenegrin (Cyrillic)",
     "crowdinId": "sr-Cyrl-ME",

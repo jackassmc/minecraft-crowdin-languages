@@ -9,7 +9,7 @@ at the bottom of this README and in [minecraftLanguages.json](./minecraftLanguag
 
 ## Data
 
-Last updated 2022-09-28T08:52:21.233Z
+Last updated 2022-10-10T16:17:05.604Z
 
 | Crowdin Locale | Crowdin Name                   | Crowdin ID | Minecraft ID |
 | -------------- | ------------------------------ | ---------- | ------------ |
@@ -163,6 +163,7 @@ Last updated 2022-09-28T08:52:21.233Z
 | sah-SAH        | Sakha                          | sah        | _empty_      |
 | scn            | Sicilian                       | scn        | _empty_      |
 | sjd            | Kildin Sami                    | sjd        | _empty_      |
+| sr-CS          | Serbian (Latin)                | sr-CS      | _empty_      |
 | sr-Cyrl-ME     | Montenegrin (Cyrillic)         | sr-Cyrl-ME | _empty_      |
 | swg            | Allgovian German               | swg        | _empty_      |
 | tzl-TZL        | Talossan                       | tzl        | _empty_      |
