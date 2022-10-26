@@ -9,7 +9,7 @@ at the bottom of this README and in [minecraftLanguages.json](./minecraftLanguag
 
 ## Data
 
-Last updated 2022-10-10T16:17:05.604Z
+Last updated 2022-10-26T13:12:18.022Z
 
 | Crowdin Locale | Crowdin Name                   | Crowdin ID | Minecraft ID |
 | -------------- | ------------------------------ | ---------- | ------------ |
@@ -96,6 +96,7 @@ Last updated 2022-10-10T16:17:05.604Z
 | mn-MN          | Mongolian                      | mn         | mn_mn        |
 | ms-MY          | Malay                          | ms         | ms_my        |
 | mt-MT          | Maltese                        | mt         | mt_mt        |
+| nah            | Nahuatl                        | nah        | nah          |
 | nds-DE         | Low German                     | nds        | nds_de       |
 | nl-BE          | Dutch, Belgium                 | nl-BE      | nl_be        |
 | nl-NL          | Dutch                          | nl         | nl_nl        |
@@ -110,6 +111,7 @@ Last updated 2022-10-10T16:17:05.604Z
 | ro-RO          | Romanian                       | ro         | ro_ro        |
 | rpr            | Russian (pre-revolutionary)    | rpr        | rpr          |
 | ru-RU          | Russian                        | ru         | ru_ru        |
+| ry-UA          | Rusyn                          | ry-UA      | ry_ua        |
 | se-NO          | Northern Sami                  | se         | se_no        |
 | sk-SK          | Slovak                         | sk         | sk_sk        |
 | sl-SI          | Slovenian                      | sl         | sl_si        |
@@ -154,12 +156,10 @@ Last updated 2022-10-10T16:17:05.604Z
 | mi-NZ          | Maori                          | mi         | _empty_      |
 | moe            | Innu                           | moe        | _empty_      |
 | moh-CA         | Mohawk                         | moh        | _empty_      |
-| nah            | Nahuatl                        | nah        | _empty_      |
 | ne-NP          | Nepali                         | ne-NP      | _empty_      |
 | nuk            | Nuu-chah-nulth                 | nuk        | _empty_      |
 | oj-CA          | Ojibwe                         | oj         | _empty_      |
 | pa-IN          | Punjabi                        | pa-IN      | _empty_      |
-| ry-UA          | Rusyn                          | ry-UA      | _empty_      |
 | sah-SAH        | Sakha                          | sah        | _empty_      |
 | scn            | Sicilian                       | scn        | _empty_      |
 | sjd            | Kildin Sami                    | sjd        | _empty_      |

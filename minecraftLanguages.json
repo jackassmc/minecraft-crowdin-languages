@@ -498,6 +498,12 @@
     "minecraftId": "mt_mt"
   },
   {
+    "crowdinLocale": "nah",
+    "crowdinName": "Nahuatl",
+    "crowdinId": "nah",
+    "minecraftId": "nah"
+  },
+  {
     "crowdinLocale": "nds-DE",
     "crowdinName": "Low German",
     "crowdinId": "nds",
@@ -580,6 +586,12 @@
     "crowdinName": "Russian",
     "crowdinId": "ru",
     "minecraftId": "ru_ru"
+  },
+  {
+    "crowdinLocale": "ry-UA",
+    "crowdinName": "Rusyn",
+    "crowdinId": "ry-UA",
+    "minecraftId": "ry_ua"
   },
   {
     "crowdinLocale": "se-NO",
@@ -846,12 +858,6 @@
     "minecraftId": null
   },
   {
-    "crowdinLocale": "nah",
-    "crowdinName": "Nahuatl",
-    "crowdinId": "nah",
-    "minecraftId": null
-  },
-  {
     "crowdinLocale": "ne-NP",
     "crowdinName": "Nepali",
     "crowdinId": "ne-NP",
@@ -873,12 +879,6 @@
     "crowdinLocale": "pa-IN",
     "crowdinName": "Punjabi",
     "crowdinId": "pa-IN",
-    "minecraftId": null
-  },
-  {
-    "crowdinLocale": "ry-UA",
-    "crowdinName": "Rusyn",
-    "crowdinId": "ry-UA",
     "minecraftId": null
   },
   {
