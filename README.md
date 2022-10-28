@@ -9,7 +9,7 @@ at the bottom of this README and in [minecraftLanguages.json](./minecraftLanguag
 
 ## Data
 
-Last updated 2022-10-26T13:12:18.022Z
+Last updated 2022-10-28T13:08:33.294Z
 
 | Crowdin Locale | Crowdin Name                   | Crowdin ID | Minecraft ID |
 | -------------- | ------------------------------ | ---------- | ------------ |
@@ -147,6 +147,7 @@ Last updated 2022-10-26T13:12:18.022Z
 | cv-CU          | Chuvash                        | cv         | _empty_      |
 | dsb-DE         | Lower Sorbian                  | dsb-DE     | _empty_      |
 | egl            | Emilian                        | egl        | _empty_      |
+| es-CO          | Spanish, Colombia              | es-CO      | _empty_      |
 | got-DE         | Gothic                         | got        | _empty_      |
 | gv-IM          | Manx                           | gv         | _empty_      |
 | hes            | Hessian                        | hes        | _empty_      |

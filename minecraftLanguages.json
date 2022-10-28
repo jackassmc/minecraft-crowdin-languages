@@ -804,6 +804,12 @@
     "minecraftId": null
   },
   {
+    "crowdinLocale": "es-CO",
+    "crowdinName": "Spanish, Colombia",
+    "crowdinId": "es-CO",
+    "minecraftId": null
+  },
+  {
     "crowdinLocale": "got-DE",
     "crowdinName": "Gothic",
     "crowdinId": "got",
